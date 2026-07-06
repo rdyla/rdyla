@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/headshot.jpg" width="200" alt="Ryan Dyla" />
+<!---<img src="assets/headshot.jpg" width="200" alt="Ryan Dyla" />--->
 
 # Ryan Dyla
 
