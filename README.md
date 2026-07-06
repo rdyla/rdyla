@@ -10,6 +10,7 @@
 
 📍 Fountain Valley, CA
 
+[![Website](https://img.shields.io/badge/Website-2EE6A6?style=for-the-badge&logo=googlechrome&logoColor=black)](https://rdyla.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryandyla)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryandyla@gmail.com)
 
