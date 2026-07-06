@@ -91,17 +91,6 @@ Currently the **Microsoft 365 tenant administrator** for my organization — own
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdyla&show_icons=true&hide_border=true&title_color=0078D4&icon_color=0078D4)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rdyla&layout=compact&hide_border=true&title_color=0078D4)
-
-</div>
-
----
-
 ## 🎓 Certifications
 
 `Zoom UCaaS / CCaaS Architecture` &nbsp;·&nbsp; `Microsoft Teams` &nbsp;·&nbsp; `Mitel UC & Contact Center` &nbsp;·&nbsp; `Cisco` &nbsp;·&nbsp; `Juniper` &nbsp;·&nbsp; `Fortinet` &nbsp;·&nbsp; `HPE` &nbsp;·&nbsp; `ITIL Foundations`
